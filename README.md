@@ -1,6 +1,6 @@
-# {Company} {Api Name} OpenAPI Description
+# Mecoa API OpenAPI Description
 
-This repository contains the [OpenAPI description](/openapi.yml) for <{docs_url}>.
+This repository contains the [OpenAPI description](/openapi.yml) for <https://docs.mercoa.com/quick-start>.
 
 ## What is OpenAPI?
 
@@ -10,4 +10,4 @@ From the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification):
 
 ## Issues
 
-Feel free to [leave an issue](https://github.com/fern-{company}/{company}-openapi/issues) on this repo.
+Feel free to [leave an issue](https://github.com/fern-mercoa/mercoa-openapi/issues) on this repo.
